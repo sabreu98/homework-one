@@ -1,1 +1,48 @@
 /* Styles for your homework one assignment */
+/*font-family: 'Work Sans', sans-serif;
+font-family: 'Playfair Display', serif;*/
+
+body {
+  text-decoration: none;
+  background-color: thistle;
+}
+
+h1 {
+font-family: 'Playfair Display', serif;
+font-size: 50px;
+margin: 10px;
+text-align: center;
+-webkit-text-fill-color: white;
+}
+
+h2 {
+  line-height: 14px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  -webkit-text-fill-color: white;
+
+}
+
+h3 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  line-height: 40px;
+}
+.vibe1{
+margin-left: 37%;
+margin-top: 50px;
+}
+
+
+.vibe2 {
+  margin-left: 36%;
+  margin-top: 20px;
+}
+
+.vibe3{
+  margin-left: 36%;
+  margin-top: 20px;
+}
